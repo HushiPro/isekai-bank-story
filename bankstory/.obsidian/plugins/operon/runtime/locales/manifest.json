@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"locales": {
+		"zh-CN": {
+			"fileName": "operon-locale-zh-CN-6b76bceca50e.json",
+			"sha256": "6b76bceca50e856c21e3eafaf3adbe2eec87291c5b954a012d677ddab4cc942c",
+			"sizeBytes": 267267,
+			"schemaVersion": 1,
+			"sourceVersion": "fc153a17576bd22d99aebc2593b188aaf3d705cd6f724c3f9a86b6dd748a0644",
+			"keyCount": 3829,
+			"keyFingerprint": "150facca65fc1af8defc5f2bbcffbc9ad9d875c6c71fd99b9bde80d28e7340be",
+			"installedAt": "2026-11-16T14:46:47.497Z"
+		}
+	}
+}
